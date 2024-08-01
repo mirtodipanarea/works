@@ -1,17 +1,14 @@
-# hiveMedia
+## hiveMedia
 
-<a href="https://bskstest.mycafe24.com/eventPage1/3-1/space/source/3-1.html"> 1주차 우주 </a>
-
-<a href="https://bskstest.mycafe24.com/eventPage2/3-2/3-2.html"> 2주차 공룡 </a>
-
-## study
-
-| Date | Link |
+| No | Link |
 | ------------ | ------------- |
-| 03月28日 | <a href="https://onlinepage.co.kr/1bsb/default/"> flexBox </a>  |
-| 03月29日 | <a href="0329"> dataType </a>  |
-| 04月01日 | <a href="0401"> operator, if, for loop </a>  |
-| 04月02-04日 | <a href="0402"> arrowFunction </a>  |
-| 04月05日 | <a href="0405"> class </a>  |
-| 04月08日 | <a href="0408"> object </a>  |
-| 04月11日 | <a href="0411"> array </a>  |
+| 1 | <a href="https://onlinepage.co.kr/1bsb/default/">  안양여성인력개발센터 </a>  |
+| 2 | <a href="https://onlinepage.co.kr/1bsb/default2/"> 경산시 </a>  |
+| 3 | <a href="https://onlinepage.co.kr/1bsb/default3/"> 포항경주공항 </a>  |
+| 4 | <a href="https://onlinepage.co.kr/1bsb/default4/"> 2024전국(장애인)체 </a>  |
+| 5 | <a href="https://onlinepage.co.kr/1bsb/default5/"> 경남도청 우주항공 </a>  |
+| 6 | <a href="https://onlinepage.co.kr/1bsb/default6/"> 더드림 오른손 </a>  |
+| 7 | <a href="https://hivemedia.co.kr/portfolio/portfolio_t.php"> 하이브미디어 portfolio </a>  |
+| 8 | <a href="https://hivemedia.co.kr/portfolio/portfolio.php"> 하이브미디어 </a>  |
+
+
