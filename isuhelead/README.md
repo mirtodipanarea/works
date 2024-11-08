@@ -14,7 +14,7 @@
 
 # ☑️ 
 
-💭 수정 요청 된 php 코드 수정
+💭 수정 요청 된 php 코드 수정 및 이미지 포토샵 후 코드 수정
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
