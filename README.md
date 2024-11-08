@@ -9,7 +9,7 @@
 | 7 | <a href="https://hivemedia.co.kr/portfolio/portfolio_t.php"> 하이브미디어 portfolio </a>  |
 | 8 | <a href="https://hivemedia.co.kr/portfolio/portfolio.php"> 하이브미디어 </a>  |
 | 9 | <a href="https://isu-helead.com/"> 이수역헤리드 </a>  |
-| 10 | <a href="https://is-helead.com/index.php"> 이수역헤리드 </a>  |
+| 10 | <a href="https://is-helead.com/index.php"> 이수역헤리드 홍보관용  </a>  |
 | 11 | <a href="https://onlinepage.co.kr/1bsb/default9/"> 한국국학진흥원 한문교육원 랜딩페이지 </a>  |
 
 
