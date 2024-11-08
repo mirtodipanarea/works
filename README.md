@@ -11,5 +11,6 @@
 | 9 | <a href="https://isu-helead.com/"> 이수역헤리드 </a>  |
 | 10 | <a href="https://is-helead.com/index.php"> 이수역헤리드 홍보관용  </a>  |
 | 11 | <a href="https://onlinepage.co.kr/1bsb/default9/"> 한국국학진흥원 한문교육원 랜딩페이지 </a>  |
+| 12 | <a href="https://xn--950bu1tc1d75aa923dymm5nl21f.com/"> 속초 베네스트 하우스 </a>  |
 
 
