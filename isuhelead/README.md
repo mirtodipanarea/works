@@ -17,11 +17,15 @@
 #### 💭 수정 요청 된 php 코드 수정 및 이미지 포토샵 후 코드 수정 <br>
 #### 💭 홍보관용 페이지는 레퍼런스 사진 참고
 
-![image](https://github.com/user-attachments/assets/a182211f-8489-4a7f-afa0-70dac9ef1260)
+# 🖥️ PC
+![image](https://github.com/user-attachments/assets/a182211f-8489-4a7f-afa0-70dac9ef1260) <br>
+
+# 📱 MOBILE
+![image](https://github.com/user-attachments/assets/b581c2c9-f4c7-4134-a5ba-df494250c2bc)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-![image](https://github.com/user-attachments/assets/b581c2c9-f4c7-4134-a5ba-df494250c2bc)
 
 
 
