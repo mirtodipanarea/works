@@ -12,15 +12,15 @@
 
 
 
-# ☑️ 아이디어 제안
+# ⭐ 아이디어 제안
 
-💭 사진 팝업 기능 생성 <br>
-💭 hoverBox 호버 시 클릭 유도 화살표 애니메이션 아이디어 및 제작 <br>
-💭 팝업창 스크롤 바 커스텀 <br>
-💭 팝업 시 자세한 내용 보기 버튼 hover 디자인 <br>
-💭 그 외 각 요소 사이즈 수정 <br>
-💭 영상 팝업 기능 생성 <br>
-💭 반응형 수정 <br>
+#### 💭 사진 팝업 기능 생성 <br>
+#### 💭 hoverBox 호버 시 클릭 유도 화살표 애니메이션 아이디어 및 제작 <br>
+#### 💭 팝업창 스크롤 바 커스텀 <br>
+#### 💭 팝업 시 자세한 내용 보기 버튼 hover 디자인 <br>
+#### 💭 그 외 각 요소 사이즈 수정 <br>
+#### 💭 영상 팝업 기능 생성 <br>
+#### 💭 반응형 수정 <br>
 
 ```
 👉ONLINE AD
@@ -46,7 +46,12 @@
 오버 후 썸네일 클릭 시 팝업창
 ```
 
-![image](https://github.com/user-attachments/assets/bca821c1-0e07-4ef2-9eb5-d02da4153560)
+# 🖥️ PC
+![image](https://github.com/user-attachments/assets/bca821c1-0e07-4ef2-9eb5-d02da4153560) <br>
+
+# 📱 MOBILE
+![image](https://github.com/user-attachments/assets/1e75fea5-cca5-4fbe-a8e4-6a53ccee5d4a)
+
 
 
 
