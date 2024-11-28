@@ -1,4 +1,4 @@
-| No | Link |
+| No | Portfolio |
 | ------------ | ------------- |
 | 1 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/hiveMedia-portfolio"> 하이브미디어 </a>  |
 | 2 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/isuhelead"> 이수역헤리드 </a>  |
