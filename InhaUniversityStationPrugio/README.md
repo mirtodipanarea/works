@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2007&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2021%20~%2011.28&fontSize=60)
 
 # 🏘️인하대역 푸르지오 (PC / MOBILE)
 ## New Open 분양 사이트 서브 페이지 제작 및 기능 추가
