@@ -3,7 +3,7 @@
 # 🏘️인하대역 푸르지오 (PC / MOBILE)
 ## New Open 분양 사이트 서브 페이지 제작 및 기능 추가
 
-# <a href="https://xn--vk1bk6jxullgq4dhzf0xzetb.com/"> 인하대역 푸르지오 </a>
+# <a href="https://xn--vk1bk6jxullgq4dhzf0xzetb.com/"> 바로가기 </a>
 ### Reference:
 ### [20241125_인하대역푸르지오에듀포레 홈페이지 방문예약, 이벤트 추가 구조도.pptx](https://github.com/user-attachments/files/17943144/20241125_.pptx)
 
