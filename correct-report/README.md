@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2005%20-%202024.%2011.%2011&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2015%20-%202024.%2011.%2029&fontSize=60)
 
 # ☯️ Daum과 국민권익위원회가 함께하는 <br> [올바른 부패·공익신고] 캠페인  (PC / MOBILE)
-## 2024. 12 OPEN
+## 2024. 12. OPEN
 
 # <a href="https://promotion.daum-kg.net/correct_report/"> 바로가기 </a>
 
