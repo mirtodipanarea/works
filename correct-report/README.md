@@ -10,8 +10,6 @@
 ### [★국민권익위원회_올바른 부패공익신고 _Daum공익캠페인_브랜디드콘텐츠 기획서_20241101_DK비즈니스센터★_V1.5.pptx](https://github.com/user-attachments/files/17943217/_._Daum._._20241101_DK._V1.5.pptx) <br>
 ### <a href="https://promotion.daum-kg.net/"> Daum 캠페인 <a> <br>
 
-
-# ⭐
 #### 💭 페이지 100% 제작 <br>
 #### 💭 퍼블리싱 및 이벤트 기능 구현 <br>
 
