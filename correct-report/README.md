@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/a08316b4-3828-4c7e-9d98-549e475a63a6)
 
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
