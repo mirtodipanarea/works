@@ -7,8 +7,8 @@
 ### Reference:
 ### [20241125_인하대역푸르지오에듀포레 홈페이지 방문예약, 이벤트 추가 구조도.pptx](https://github.com/user-attachments/files/17943144/20241125_.pptx)
 
-#### 💭 팝업 및 SNS, TOP 버튼 기능 추가/수정 <br>
-#### 💭 서브 페이지 제작 <br>
+#### • 팝업 및 SNS, TOP 버튼 기능 추가/수정 <br>
+#### • 서브 페이지 제작 <br>
 
 
 # 🖥️ PC
