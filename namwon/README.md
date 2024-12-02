@@ -6,18 +6,9 @@
 # <a href="https://xn--q20bm8okyktpa.com/"> 바로가기 </a>
 
 
-### Reference:
-```
-선호도 조사 링크 전달드립니다.
-https://forms.gle/xfVsehgBK1hFYRGQA
-11월 12일 00:00 ~ 11월 14일 23:59까지 링크 연동되도록 부탁드리겠습니다.
-```
+### Reference: psd
 
 
-
-
-
-# ⭐
 #### 💭 PC / MOBILE 포함 <br>
 #### 💭 floating 배너 수정 <br>
 #### 💭 '선호도 조사 하러가기' 11월 12일 00:00 ~ 11월 14일 23:59까지 링크 연동되도록 기능 구현 <br>
