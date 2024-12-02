@@ -20,7 +20,8 @@
 ![image](https://github.com/user-attachments/assets/a2332735-64b9-4854-9ca2-476222cecdda) <br>
 
 ## 📱 MOBILE
-![image](https://github.com/user-attachments/assets/40c3fcc8-21fa-4d7e-9764-5713e0a5b5b2)
+![image](https://github.com/user-attachments/assets/5e779d6b-8528-4324-bf5e-0eab0aa63100)
+
 
 
 
