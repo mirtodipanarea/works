@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2007.%2015%20-%202024.%2007.%2031&fontSize=60)
 
 # 🔵hiveMedia > portfolio 페이지 수정 (PC / MOBILE)
-## 하이브미디어 홈페이지의 포트폴리오 페이지 리워크 아이디어 제안 및 제작
+## 포트폴리오 페이지 리워크 아이디어 제안 및 제작
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
