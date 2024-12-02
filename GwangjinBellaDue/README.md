@@ -7,7 +7,6 @@
 ### Reference:
 ### [광진벨라듀 수정사항.pptx](https://github.com/user-attachments/files/17973025/default.pptx)
 
-# ⭐
 #### 💭 메인 및 서브 페이지 클라이언트 요구사항 수정 <br>
 
 
