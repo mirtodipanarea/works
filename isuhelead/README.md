@@ -11,9 +11,9 @@
 ### [이수역헤리드 홈페이지 메뉴 구조도.pptx](https://github.com/user-attachments/files/17675480/default.pptx) <br>
 <img src="https://github.com/user-attachments/assets/919e0824-5933-4305-84f5-96397005e033">
 
-#### 💭 수정된 팝업시안으로 교체 <br>
-#### 💭 수정 요청 된 php 코드 수정 및 이미지 포토샵 후 코드 수정 <br>
-#### 💭 홍보관용 페이지는 레퍼런스 사진 참고
+#### • 수정된 팝업시안으로 교체 <br>
+#### • 수정 요청 된 php 코드 수정 및 이미지 포토샵 후 코드 수정 <br>
+#### • 홍보관용 페이지는 레퍼런스 사진 참고
 
 # 🖥️ PC
 ![image](https://github.com/user-attachments/assets/a182211f-8489-4a7f-afa0-70dac9ef1260) <br>
