@@ -4,7 +4,7 @@
 ## 포트폴리오 페이지 리워크 아이디어 제안 및 제작
 ## 기능 및 UI 수정
 
-# <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
+# <a href="https://hivemedia.co.kr/portfolio/portfolio.php"> 바로가기 </a>
 
 
 ### Reference:
