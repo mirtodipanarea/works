@@ -2,13 +2,13 @@
 
 # 남원의 맛 (PC / MOBILE)
 ## '선호도 조사 하러가기' floating 오픈 및 마감 기능 구현
-## 이벤트 팝업 생성
+## 이벤트 팝업 UI 생성
 ## 클라이언트 기능 추가 및 UI 수정
 
 # <a href="https://xn--q20bm8okyktpa.com/"> 바로가기 </a>
 
 ## PC
-![image](https://github.com/user-attachments/assets/a2332735-64b9-4854-9ca2-476222cecdda) <br>
+![image](https://github.com/user-attachments/assets/a2332735-64b9-4854-9ca2-476222cecdda) 
 
 ## MOBILE
 ![image](https://github.com/user-attachments/assets/5e779d6b-8528-4324-bf5e-0eab0aa63100)
