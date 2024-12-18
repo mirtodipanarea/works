@@ -12,4 +12,5 @@
 | 9 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/Gyeongguk University"> 국립경국대학교 </a>  |
 | 10 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/yi-cantavill"> 용인 에버랜드역 칸타빌 </a>  |
 | 11 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/BusanDu"> 부산광역시교육청 </a>  |
-| 12 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/BDHevent"> 경남도청 복덩이이벤트 </a>  |
+| 12 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/BDHevent"> 경남도청 복덩이 이벤트 </a>  |
+| 13 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/sacheonAward"> 사천시 2024 유튜브어워드 이벤트 </a>  |
