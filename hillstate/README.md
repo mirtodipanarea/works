@@ -4,10 +4,6 @@
 ## New Open 분양 사이트 서브 페이지 기능 추가 및 UI 수정
 
 # <a href="https://www.xn--ok0bx4fvxk06b8xixdo4v1go0mfu6c.com/"> 바로가기 </a>
-## Reference:
-## [20241212_힐스에비뉴 장승배기역_홈페이지 동작행정타운 명칭 통일.pptx](https://github.com/user-attachments/files/18173309/20241212_._.pptx) <br>
-## [20241212_힐스에비뉴 장승배기역 홈페이지 수정안.pptx](https://github.com/user-attachments/files/18173308/20241212_.pptx)
-
 
 # PC
 ![image](https://github.com/user-attachments/assets/157fea1c-bd72-472f-af90-8cbe33d1ae10)
