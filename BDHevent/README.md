@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2012.%2009%20-%2012.%2012&fontSize=60)
 
-# <a href="https://onlinepage.co.kr/Gyeongnam_BDHevent/index.php"> 경남도청 복덩이이벤트 랜딩 </a> (PC / MOBILE)
+# <a href="https://onlinepage.co.kr/Gyeongnam_BDHevent/index.php"> 경남도청 복덩이 이벤트 랜딩 </a> (PC / MOBILE)
 ## 기능 추가 및 UI 수정
 ## Confirm 페이지 제작
 
