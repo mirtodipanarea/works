@@ -7,11 +7,6 @@
 
 # <a href="https://onlinepage.co.kr/2024ikedu/"> 바로가기 </a>
 
-## Reference
-## [241018_한문교육원 랜딩페이지 스토리보드_수정본.pptx] <br>
-## [241023_한문교육원 랜딩페이지 수정사항.pptx] <br>
-## [B팀 3차 한문교육원 캐릭터 시안.pdf] <br>
-
 ## PC
 ![image](https://github.com/user-attachments/assets/e25a68ae-8e65-4b28-92b8-814600131ec1) <br>
 
