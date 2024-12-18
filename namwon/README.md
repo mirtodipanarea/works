@@ -7,10 +7,10 @@
 
 # <a href="https://xn--q20bm8okyktpa.com/"> 바로가기 </a>
 
-## 🖥️ PC
+## PC
 ![image](https://github.com/user-attachments/assets/a2332735-64b9-4854-9ca2-476222cecdda) <br>
 
-## 📱 MOBILE
+## MOBILE
 ![image](https://github.com/user-attachments/assets/5e779d6b-8528-4324-bf5e-0eab0aa63100)
 
 
