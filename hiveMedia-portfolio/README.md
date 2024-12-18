@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2007.%2015%20-%202024.%2007.%2031&fontSize=60)
 
-# hiveMedia > portfolio (PC / MOBILE)
+# hiveMedia (PC / MOBILE)
 ## 포트폴리오 페이지 리워크 아이디어 제안 및 제작
-## 기능 및 UI 수정
+## 기능 추가 및 UI 수정
 
 # <a href="https://hivemedia.co.kr/portfolio/portfolio.php"> 바로가기 </a>
 
