@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2005%20-%202024.%2011.%2011&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2005%20-%2011.%2011&fontSize=60)
 
 # 남원의 맛 (PC / MOBILE)
 ## '선호도 조사 하러가기' floating 오픈 및 마감 기능 구현
