@@ -2,7 +2,7 @@
 
 # <a href="https://promotion.daum-kg.net/incheonmanual/"> Daum과 인천광역시가 함께하는 <br> <2024 인천탐구생활> 공익 캠페인 </a> (PC / MOBILE)
 ## 2024. 12. 09 OPEN
-## 기능 추가 및 UI 수
+## 기능 추가 및 UI 수정
 
 ## PC
 ![image](https://github.com/user-attachments/assets/6ecb84ca-f977-418c-b935-48dd0f34a65a)
