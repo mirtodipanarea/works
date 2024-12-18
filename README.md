@@ -1,7 +1,7 @@
 
 | No | Portfolio |
 | ------------ | ------------- |
-| 1 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/hiveMedia-portfolio"> 하이브미디어 </a>  |
+| 1 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/hiveMedia"> 하이브미디어 </a>  |
 | 2 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/isuhelead"> 이수역헤리드 </a>  |
 | 3 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/hanmun"> 한국국학진흥원 한문교육원 </a>  |
 | 4 | <a href="https://github.com/eekfrl/hiveMedia/tree/master/namwon"> 남원의 맛 </a>  |
