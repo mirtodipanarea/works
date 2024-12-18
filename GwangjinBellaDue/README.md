@@ -4,8 +4,8 @@
 ## 기능 및 UI 수정
 
 # <a href="https://xn--hc0bt9l89bkzho3s.kr/"> 바로가기 </a>
-### Reference:
-### [광진벨라듀 수정사항.pptx](https://github.com/user-attachments/files/17973025/default.pptx)
+## Reference:
+## [광진벨라듀 수정사항.pptx](https://github.com/user-attachments/files/17973025/default.pptx)
 
 
 # 🖥️ PC
