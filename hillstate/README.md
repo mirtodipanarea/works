@@ -10,11 +10,14 @@
 
 
 # PC
-![image](https://github.com/user-attachments/assets/ed42ae69-4b54-4453-8163-fc3e5fee1eb2)
+![image](https://github.com/user-attachments/assets/157fea1c-bd72-472f-af90-8cbe33d1ae10)
+![image](https://github.com/user-attachments/assets/8eaedb95-498e-4679-b62a-9a49bbac573a)
+
  <br>
 
 # MOBILE
-![image](https://github.com/user-attachments/assets/11b41adf-1cc3-4bae-a802-9069172d3d92)
+![image](https://github.com/user-attachments/assets/03d9c995-dcb3-4246-9d56-95e6c045fa7e)
+
 
 
 
