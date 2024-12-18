@@ -2,7 +2,7 @@
 
 # 이수역 헤리드 (PC / MOBILE)
 ## isu-helead 홈페이지 및 홍보관용 페이지 수정
-## 클라이언트 요구사항 기능 수정
+## 기능 추가 및 UI 수정
 
 # <a href="https://isu-helead.com/"> 바로가기 </a>
 # <a href="https://is-helead.com/index.php"> 바로가기 (홍보관용) </a>
