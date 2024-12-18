@@ -7,9 +7,9 @@
 # <a href="https://hivemedia.co.kr/portfolio/portfolio.php"> 바로가기 </a>
 
 
-### Reference:
-### [20240626_홈페이지 수정안 스토리보드.pptx](https://github.com/user-attachments/files/17675041/20240626_.pptx) <br>
-### [20240726_홈페이지 수정안 스토리보드.pptx](https://github.com/user-attachments/files/17675040/20240726_.pptx)
+## Reference:
+## [20240626_홈페이지 수정안 스토리보드.pptx](https://github.com/user-attachments/files/17675041/20240626_.pptx) <br>
+## [20240726_홈페이지 수정안 스토리보드.pptx](https://github.com/user-attachments/files/17675040/20240726_.pptx)
 
 # 🖥️ PC
 ![image](https://github.com/user-attachments/assets/bca821c1-0e07-4ef2-9eb5-d02da4153560) <br>
