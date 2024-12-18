@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2007&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2029%20-%2012.%2012&fontSize=60)
 
 # 용인 에버랜드역 칸타빌 (PC / MOBILE)
 ## 분양 홍보 팝업 게시
