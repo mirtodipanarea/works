@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/fb5a988c-6ee1-45bc-8f11-2b2ce3ba090a)
 
 # MOBILE
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cfc1a636-a037-4e9d-81f5-ec89c74fb2ac)
 
 
 
