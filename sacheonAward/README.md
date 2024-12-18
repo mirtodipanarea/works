@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2012.%2012&fontSize=60)
 
 # <a href="https://onlinepage.co.kr/2024sacheonAward/"> 사천시 2024 유튜브 어워드 랜딩 </a> (PC / MOBILE)
+## 기능 추가 및 UI 수정
 ## Confirm 페이지 제작
 
 # PC
