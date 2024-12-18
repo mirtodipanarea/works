@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2012.%2012&fontSize=60)
 
-# 힐스에비뉴 (PC / MOBILE)
+# <a href="https://www.xn--ok0bx4fvxk06b8xixdo4v1go0mfu6c.com/"> 힐스에비뉴 </a> (PC / MOBILE)
 ## New Open 분양 사이트 서브 페이지 기능 추가 및 UI 수정
-
-# <a href="https://www.xn--ok0bx4fvxk06b8xixdo4v1go0mfu6c.com/"> 바로가기 </a>
 
 # PC
 ![image](https://github.com/user-attachments/assets/157fea1c-bd72-472f-af90-8cbe33d1ae10)
