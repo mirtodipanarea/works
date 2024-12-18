@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2029%20-%2012.%2012&fontSize=60)
 
-# 용인 에버랜드역 칸타빌 (PC / MOBILE)
+# <a href="https://yi-cantavil.com/"> 용인 에버랜드역 칸타빌 </a> (PC / MOBILE)
 ## 분양 홍보 팝업 게시
 ## 기능 추가 및 UI 수정
-
-# <a href="https://yi-cantavil.com/"> 바로가기 </a>
 
 # PC
 ![image](https://github.com/user-attachments/assets/e64012b8-50f8-44e1-8e41-5e4da844bc73)
