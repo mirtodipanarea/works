@@ -4,7 +4,7 @@
 ## New Open 분양 사이트 서브 페이지 기능 추가 및 UI 수정
 
 # PC
-![image](https://github.com/user-attachments/assets/ed42ae69-4b54-4453-8163-fc3e5fee1eb2)
+![image](https://github.com/user-attachments/assets/f9be9904-49cf-466b-aa2d-326bf240997c)
  <br>
 
 # MOBILE
