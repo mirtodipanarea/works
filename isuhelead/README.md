@@ -6,7 +6,8 @@
 ## 기능 추가 및 UI 수정
 
 # PC
-![image](https://github.com/user-attachments/assets/a182211f-8489-4a7f-afa0-70dac9ef1260) <br>
+![image](https://github.com/user-attachments/assets/6c0b77e3-ef79-4f06-b0c2-a61c5af2d46b)<br>
+![image](https://github.com/user-attachments/assets/a182211f-8489-4a7f-afa0-70dac9ef1260)
 
 # MOBILE
 ![image](https://github.com/user-attachments/assets/b581c2c9-f4c7-4134-a5ba-df494250c2bc)
