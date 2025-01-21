@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2021%20-%202024.%2011.%2028&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2021%20-%2011.%2028&fontSize=60)
 
 # <a href="https://xn--vk1bk6jxullgq4dhzf0xzetb.com/"> 인하대역 푸르지오 </a>(PC / MOBILE)
 ## New Open 분양 사이트 서브 페이지 기능 추가 및 UI 수정
