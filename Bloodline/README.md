@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2011.%2015%20-%202024.%2011.%2029&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2001.%2015%20-%202025.%2001.%2016&fontSize=60)
 
-# <a href="https://onlinepage.co.kr/Bloodline/"> 경남도청 <br> 제2회 청년 거리문화 페스티벌 Bloodline </a> (PC / MOBILE)
+# <a href="https://onlinepage.co.kr/Bloodline/"> 경남도청 <br> 제2회 청년 거리문화 페스티벌 </a> (PC / MOBILE)
 ## 2025. 01. 21 OPEN
 ## 페이지 100% 제작 <br>
 ## 퍼블리싱 및 이벤트 기능 구현
