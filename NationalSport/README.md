@@ -11,7 +11,8 @@
  <br>
 
 ## MOBILE
-![image](https://github.com/user-attachments/assets/fd41b933-fdd2-4759-9c82-30ac8a2acf80)
+![image](https://github.com/user-attachments/assets/fd7c226d-e200-423b-8aa5-cf7c98d22a7c)
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
