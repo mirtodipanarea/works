@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2002.%2006%20-%2002.%2007&fontSize=60)
 
 # <a href="https://onlinepage.co.kr/2025nsgn/reporter.php"> 전국소년체육대회 전국장애학생체육대회 <br> 기자단 모집 </a> (PC / MOBILE)
-## 2025. 02. 05. OPEN
+## 2025. 02. 12. OPEN
 ## 페이지 100% 제작 <br>
 ## 퍼블리싱 및 이벤트 기능 구현
 
