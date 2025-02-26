@@ -6,8 +6,7 @@
 ## 퍼블리싱 및 이벤트 기능 구현
 
 ## PC
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/32ea24cf-f416-4c76-90f6-2532a3c55c9b)
 
  <br>
 
