@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2003.%2020%20-%2003.%2026&fontSize=60)
 
-# <a href="https://onlinepage.co.kr/2025busandu/"> 사천 디카시 공모전 </a> (PC / MOBILE)
+# <a href="https://onlinepage.co.kr/SacheonDicapoem/"> 사천 디카시 공모전 </a> (PC / MOBILE)
 ## 2025. 04. 01. OPEN
 ## 페이지 100% 제작 <br>
 ## 퍼블리싱 및 이벤트 기능 구현
