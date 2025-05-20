@@ -5,12 +5,9 @@
 
 # PC
 ![image](https://github.com/user-attachments/assets/f9be9904-49cf-466b-aa2d-326bf240997c)
- <br>
 
 # MOBILE
 ![image](https://github.com/user-attachments/assets/11b41adf-1cc3-4bae-a802-9069172d3d92)
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
