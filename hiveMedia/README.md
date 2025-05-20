@@ -2,6 +2,7 @@
 
 # <a href="https://hivemedia.co.kr/"> hiveMedia </a> (PC / MOBILE)
 ## portfolio 페이지 리워크 아이디어 제안 및 제작
+## inquiry 페이지 리워크 아이디어 제안 및 제작
 ## 기능 추가 및 UI 수정
 
 # PC
