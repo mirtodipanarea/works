@@ -2,20 +2,12 @@
 
 # <a href="https://onlinepage.co.kr/2025busandu/"> 부산광역시교육청 추억 인증샷 이벤트 </a> (PC / MOBILE)
 ## 2025. 03. 26. OPEN
-## 페이지 100% 제작 <br>
-## 퍼블리싱 및 이벤트 기능 구현
 
 ## PC
 ![image](https://github.com/user-attachments/assets/fd4c3833-f1d6-4350-850a-d930f7559d5e)
 
-
-
 ## MOBILE
 ![image](https://github.com/user-attachments/assets/650e06fa-4c85-48e9-b2a3-1a8ddff394d5)
-
-
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
