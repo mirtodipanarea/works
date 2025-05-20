@@ -16,7 +16,7 @@
 | 13 | <a href="https://github.com/mirtodipanarea/works/tree/master/busandulevelup"> 부산광역시교육청 학교생활, 나만의 꿀팁 A to Z </a> 
 | 14 | <a href="https://github.com/mirtodipanarea/works/tree/master/sacheondicapoem"> 2025 사천 디카시 공모전 </a>  |
 | 15 | <a href="https://github.com/mirtodipanarea/works/tree/master/heriant42"> 상도역 헤리언트42 </a>  |
-| 16 | <a href="https://github.com/mirtodipanarea/works/tree/master/armyacademy"> 2025 육군3사관학교 스크래치 이벤트 </a>  |
+| 16 | <a href="https://github.com/mirtodipanarea/works/tree/master/armyacademy"> 육군3사관학교 스크래치 이벤트 </a>  |
 | 17 | <a href="https://github.com/mirtodipanarea/works/tree/master/therivercourt"> THE RIVERCOURT </a>  |
 | 18 | <a href="https://github.com/mirtodipanarea/works/tree/master/haccpmagazine"> HACCP 웹 매거진 네이밍 공모전 </a>  |
 | 19 | <a href="https://github.com/mirtodipanarea/works/tree/master/miryangarirang"> 제67회 밀양아리랑대축제 </a>  |
