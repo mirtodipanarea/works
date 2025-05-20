@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2003.%2024%20-%2003.%2025&fontSize=60)
 
-# <a href="https://onlinepage.co.kr/2025busandu/"> 부산광역시교육청 추억 인증샷 이벤트 </a> (PC / MOBILE)
+# <a href="https://onlinepage.co.kr/BusanduPictureEvent/"> 부산광역시교육청 추억 인증샷 이벤트 </a> (PC / MOBILE)
 ## 2025. 03. 26. OPEN
 
 ## PC
