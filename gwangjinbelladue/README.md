@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2012.%2002&fontSize=60)
 
 # <a href="https://xn--hc0bt9l89bkzho3s.kr/"> 광진벨라듀 </a> (PC / MOBILE)
-## 기능 추가 및 UI 수정
 
 ## PC
 ![image](https://github.com/user-attachments/assets/20136d40-e59d-4cf7-9b1e-105e67e4a9ff)
