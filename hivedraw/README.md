@@ -3,11 +3,10 @@
 # <a href="https://onlinepage.co.kr/2025nsgn/"> 하이브미디어 <br> 랜덤 추첨기 HIVEDRAW </a> (PC / MOBILE)
 
 ## PC
-![image](https://github.com/user-attachments/assets/e3a7fbda-b574-41b0-b2b1-f7c6e1b620d6)
-![image](https://github.com/user-attachments/assets/d8c2a8bb-2441-4c80-a7b8-e6a2bb614498)
+![image](https://github.com/user-attachments/assets/36de81f3-890f-43bb-bcfb-82ead3def614)
 
 ## MOBILE
-![image](https://github.com/user-attachments/assets/57ee7a90-ebf5-4cb1-8c10-ef79ca7ada90)
+![image](https://github.com/user-attachments/assets/f0d1e494-4a2a-4dc7-8b35-bb21e2929adf)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
