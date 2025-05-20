@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2024.%2012.%2002&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2004.%2021%20-%2004.%2022&fontSize=60)
 
 # <a href="https://xn--hc0bt9l89bkzho3s.kr/"> 광진벨라듀 </a> (PC / MOBILE)
 
 ## PC
-![image](https://github.com/user-attachments/assets/20136d40-e59d-4cf7-9b1e-105e67e4a9ff)
+![image](https://github.com/user-attachments/assets/6485c6c1-d45d-4a5e-b8ac-eacfbceaa7a6)
 
 ## MOBILE
-![image](https://github.com/user-attachments/assets/539f2526-5b75-4990-b5ea-07e9fcb0036c)
+![image](https://github.com/user-attachments/assets/83792382-7462-4f99-9161-acfba8bdb788)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
