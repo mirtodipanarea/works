@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/c6717a77-988c-4cd5-808e-51046b9b0ff0)
 
-![image](https://github.com/user-attachments/assets/bbfedfba-c11f-417c-9796-47483fb7a1b1)
+![image](https://github.com/user-attachments/assets/ed870197-d2fc-4f6c-bdf6-bd102e072239)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
