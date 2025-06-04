@@ -1,7 +1,7 @@
 
 | n | w.. |
 | ------------ | ------------- |
-| 1 | <a href="https://github.com/mirtodipanarea/works/tree/master/hiveMedia"> 하이브미디어 </a>  |
+| 1 | <a href="https://github.com/mirtodipanarea/works/tree/master/hivemedia"> 하이브미디어 </a>  |
 | 2 | <a href="https://github.com/mirtodipanarea/works/tree/master/hanmun"> 한국국학진흥원 한문교육원 </a>  |
 | 3 | <a href="https://github.com/mirtodipanarea/works/tree/master/namwon"> 부산시청 남원의 맛 </a>  |
 | 4 | <a href="https://github.com/mirtodipanarea/works/tree/master/inhauniversityprugio"> 인하대역 푸르지오 </a>  |
