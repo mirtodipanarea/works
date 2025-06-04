@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2025.%2004.%2015%20-%2005.%2012&fontSize=60)
 
-# <a href="https://onlinepage.co.kr/2025busandu/"> THE RIVERCOURT </a> (PC / MOBILE)
+# <a href="https://the-rivercourt.com/"> THE RIVERCOURT </a> (PC / MOBILE)
 ## 2025. 05. 02. OPEN
 
 ![image](https://github.com/user-attachments/assets/9b2a678c-f03d-46fc-b673-68051b326d99)
