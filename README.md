@@ -23,4 +23,4 @@
 | 20 | <a href="https://github.com/mirtodipanarea/works/tree/master/clusterhonorsville"> 클러스터용인 경남아너스빌 </a>  |
 | 21 | <a href="https://github.com/mirtodipanarea/works/tree/master/dongshinuniversity"> 동신대학교 퀴즈 이벤트 </a>  |
 | 22 | <a href="https://github.com/mirtodipanarea/works/tree/master/gasc"> 김해문화의전당 20주년 GASC </a>  |
-| 23 | <a href="https://github.com/mirtodipanarea/works/tree/master/busanduyoutube"> 부산광역시교육청 유튜브 이벤트 </a>  |
+| 23 | <a href="https://github.com/mirtodipanarea/works/tree/master/busanduyoutube"> 부산광역시교육청 유튜브 구독 이벤트 </a>  |
